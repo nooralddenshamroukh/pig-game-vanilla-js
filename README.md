@@ -72,7 +72,7 @@ Copy code
 
 ## 🌐 Live Demo
 
-👉 [View Live Demo](https://yourusername.github.io/DiceDuel/)
+👉 [View Live Demo]([https://yourusername.github.io/DiceDuel/](https://nooralddenshamroukh.github.io/pig-game-vanilla-js/))
 
 ---
 
