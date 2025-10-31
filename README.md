@@ -1,76 +1,87 @@
-🎲 DiceDuel – The Pig Game
+# 🎲 DiceDuel – The Pig Game
+*A modern, responsive remake of the classic Pig Game using Vanilla JavaScript, HTML, and CSS.*
 
-A modern and responsive take on the classic Pig Game, built entirely with Vanilla JavaScript, HTML, and CSS.
+---
 
-🕹️ Game Objective
+## 🎯 Game Objective
+Be the **first player** to reach **100 points** on the main score to win!
 
-Be the first player to reach 100 points on the main score!
+---
 
-🚀 Features
+## 🚀 Features
+- 🎮 Two-player interactive gameplay  
+- 🎲 Random dice roll simulation  
+- 🔁 Automatic turn switching  
+- 💾 Score tracking and reset functionality  
+- 📱 Fully responsive modular CSS design  
+- 🧩 Built entirely with **Vanilla JavaScript**, **HTML5**, and **CSS3**  
+- 📜 In-game rules popup with a clean overlay  
 
-🎮 Interactive two-player gameplay
+---
 
-🎲 Dynamic dice roll animations
+## 🕹️ How to Play
 
-💾 Automatic turn switching
+### 🎲 1. Roll the Dice
+Click **“Roll Dice”** to roll.  
+The number (1–6) adds to your *current score*.
 
-📱 Fully responsive design (mobile → desktop)
+### ⚠️ 2. Be Careful!
+If you roll a **1**, you lose your *current score*,  
+and your turn automatically switches to the other player.
 
-🧩 Modular and clean CSS architecture
+### 🧍 3. Hold Your Score
+Click **“Hold”** to safely add your *current score* to your *main score*.  
+Your turn switches afterward.
 
-💡 Built with Vanilla JS, HTML, and CSS only
+### 🏆 4. Win the Game
+The first player to reach **100 points or more** wins!  
+The winner is highlighted with a celebratory style.
 
-📜 In-game rules popup for easy guidance
+### 🔄 5. Start a New Game
+Click **“New Game”** anytime to reset and play again.
 
-📖 How to Play
+---
 
-1️⃣ Roll the Dice
-Click “Roll Dice” to generate a random number (1–6).
-The number is added to your current score.
+## 🧠 Tech Stack
+| Technology | Purpose |
+|-------------|----------|
+| **HTML5** | Structure & layout |
+| **CSS3** | Styling & responsive design |
+| **JavaScript (ES6)** | Game logic & interactivity |
 
-2️⃣ Watch Out for 1!
-If you roll a 1, you lose your current score and your turn switches.
+---
 
-3️⃣ Hold Your Score
-Click “Hold” to add your current score to your main score safely.
-Then the turn switches automatically.
-
-4️⃣ Win the Game 🏆
-The first player to reach 100 points or more wins!
-
-5️⃣ New Game
-Click “New Game” anytime to reset everything and start fresh.
-
-🧠 Tech Stack
-
-HTML5 – structure
-
-CSS3 – responsive modular design
-
-JavaScript (ES6) – game logic and interactivity
-
-🧩 Project Structure
-/Pig-Game
+## 📁 Project Structure
+/DiceDuel
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── /assets
-    └── dice-1.png
-    └── dice-2.png
-    └── dice-3.png
-    └── dice-4.png
-    └── dice-5.png
-    └── dice-6.png
+├── dice-1.png
+├── dice-2.png
+├── dice-3.png
+├── dice-4.png
+├── dice-5.png
+└── dice-6.png
 
-🖼️ Demo Preview
+yaml
+Copy code
+
+---
+
+## 🌐 Live Demo
+
+👉 [View Live Demo](https://yourusername.github.io/DiceDuel/)
+
+---
 
 
-👉 Live Demo
+## 👨‍💻 Author
+**Noor Aldden**  
+💼 Computer Engineer | Frontend Developer  
+📧 *noorelddin12@example.com*  
 
+---
 
-👨‍💻 Author
-
-Noor Aldden
-💼 Computer Engineer | Frontend Developer
-📧 noorelddin12@gmail.com
+> ⭐ *If you like this project, consider giving it a star on GitHub!*
