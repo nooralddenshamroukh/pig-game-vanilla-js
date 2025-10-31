@@ -72,7 +72,8 @@ Copy code
 
 ## 🌐 Live Demo
 
-👉 [View Live Demo]([https://nooralddenshamroukh.github.io/pig-game-vanilla-js/])
+👉 [View Live Demo](https://nooralddenshamroukh.github.io/pig-game-vanilla-js/)
+
 
 ---
 
